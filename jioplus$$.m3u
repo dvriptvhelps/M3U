@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"   
+#EXTINF:-1 tvg-id="Zeeteluguhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bfmaYk2yfcrmri9aEguoPWUMQS4s9lAPmRACttbxXLHp5JV-wcYnHi8&s=10" group-title="Entertainment",Zee telugu HD
+https://mini.allinonereborn.online/ze/play.php?id=https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8
+
 #EXTINF:-1 tvg-id="cnbctv18prime" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnbctv18prime.png" group-title="Business News",CNBC TV18 Prime
 https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18prime/master.m3u8
 
