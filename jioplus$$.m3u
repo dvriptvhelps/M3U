@@ -1,6 +1,18 @@
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 
+#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 1
 https://youtu.be/HLTb9QkpliE?si=6vmSNd5K9pmeLjRj
+
+#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 2
+https://ww7.vcdnlare.com/v/dsOUKnvIoOLj9Zo?sid=6704&t=hls
+
+#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 3
+https://youtu.be/9KxOVEadHVA?si=jhcFw__0BT8VnbLN
+
+#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 4
+https://youtu.be/QGLqdmRZ9YU?feature=shared
+
+#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 5
+https://youtu.be/gYP_tUU2YhQ?si=J66fzzvWgUrpzxx6
 
 #EXTINF:-1 tvg-id="Zeeteluguhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bfmaYk2yfcrmri9aEguoPWUMQS4s9lAPmRACttbxXLHp5JV-wcYnHi8&s=10" group-title="Entertainment",Zee telugu HD
 https://venkatmitv0-byte.github.io/Azee/VivaCut_video_1757578360349_1080HD.mp4
