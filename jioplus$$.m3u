@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
+#EXTINF:-1 tvg-id="sonyyay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="TESTING", Sony yay
+http://94.136.184.160/GOLD/play.php?id=277166|user-agent=RANAPK
+
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 1
 https://youtu.be/HLTb9QkpliE?si=6vmSNd5K9pmeLjRj
 
