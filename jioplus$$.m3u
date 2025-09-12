@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="sonyyay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="TESTING", Sony yay
 http://94.136.184.160/GOLD/play.php?id=277153|user-agent=RANAPK
 
