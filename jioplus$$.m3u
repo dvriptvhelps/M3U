@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://192.168.5.157:5350/epg.xml.gz"
 #EXTINF:-1 tvg-id="sonyyay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="TESTING", Sony yay
-http://95.134.201.47:8080//live/adilmus03/002870/520370.ts?token=WVJvV2RrQ01SM0hvWDc1
+http://filex.me:8080//live/nasirf/000399/246765.m3u8
 
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 1
 https://youtu.be/HLTb9QkpliE?si=6vmSNd5K9pmeLjRj
