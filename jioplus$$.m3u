@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://192.168.5.157:5350/epg.xml.gz"
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOERGwy6YU0ZZB8eWfq-QfIyrdLUaxIWucl6jOSP_9OlWUpNFZVwHNops&s=10" group-title="DVRIPTV", Asia cup
-https://youtu.be/ljR4rWRj1ck?si=uXk5KsgF15WetIaQ
+https://dvriptvhelps.github.io/M3U/News.m3u8
 
 
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", COOLIE
