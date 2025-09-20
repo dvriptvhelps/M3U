@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://192.168.5.157:5350/epg.xml.gz"
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOERGwy6YU0ZZB8eWfq-QfIyrdLUaxIWucl6jOSP_9OlWUpNFZVwHNops&s=10" group-title="DVRIPTV", Asia cup
-http://filex.me:8080//live/755766/755766/519948.m3u8
+http://filex.me:8080/movie/755766/755766/815594.mkv
 
 
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", COOLIE
@@ -13,10 +13,10 @@ https://r4eeg9mngv6q.acek-cdn.com/vp/01/06305/m7ephcypd5ug_n/Coolie_(2025)_Telug
 https://allinonereborn.github.io/jiotv-plus/player.html?Disney%20Channel
 
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 1
-https://youtu.be/HLTb9QkpliE?si=6vmSNd5K9pmeLjRj
+http://filex.me:8080/movie/755766/755766/815594.mkv
 
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 2
-https://bingezove.com/file/m7ephcypd5ug
+http://filex.me:8080/movie/755766/755766/698368.mkv
 
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", DVRIPTV 3
 https://youtu.be/9KxOVEadHVA?si=jhcFw__0BT8VnbLN
