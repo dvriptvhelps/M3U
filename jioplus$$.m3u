@@ -1,13 +1,10 @@
 #EXTM3U x-tvg-url="http://192.168.5.157:5350/epg.xml.gz"
-#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOERGwy6YU0ZZB8eWfq-QfIyrdLUaxIWucl6jOSP_9OlWUpNFZVwHNops&s=10" group-title="DVRIPTV", Asia cup
-https://in-mc-fdlive.fancode.com/mumbai/136743_english_hls_36566c378196992ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOERGwy6YU0ZZB8eWfq-QfIyrdLUaxIWucl6jOSP_9OlWUpNFZVwHNops&s=10" group-title="DVRIPTV", Asia cup
+https://dai.google.com/linear/hls/event/VnURQRGzTUujLPwt7nf4IA/master.m3u8
 
 #EXTINF:-1 tvg-id="dvriptv" tvg-logo="https://iili.io/KIoTNql.png" group-title="DVRIPTV", COOLIE
 https://r4eeg9mngv6q.acek-cdn.com/vp/01/06305/m7ephcypd5ug_n/Coolie_(2025)_Telugu_HQ_HDRip_-_x264_-_(AAC_2.0)_-_700MB_-_ESub.mp4?t=yrzHGhFqugNCfCylzFcO76QO00pkRaIFvLKBV3-r54E&s=1757946093&e=129600&f=31526145&sp=400&i=103.164&srv=jh0vq46auprz
-
-
-
 
 #EXTINF:-1 tvg-id="sonyyay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="TESTING", Sony yay
 https://allinonereborn.github.io/jiotv-plus/player.html?Disney%20Channel
