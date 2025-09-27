@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4594" tvg-logo="http://tv.push4k.tv/stalker_portal/misc/logos/320/4343.jpg" group-title="TELUGU",ZEE TELUGU
+#EXTINF:-1 tvg-id="4594" tvg-logo="https://pbs.twimg.com/profile_images/1931366509852643331/l1mJ5GmM_400x400.jpg" group-title="TELUGU",ZEE TELUGU
 http://push4k-rkdyiptv.wasmer.app/play.php?id=4594
 
-#EXTINF:-1 tvg-id="4600" tvg-logo="http://tv.push4k.tv/stalker_portal/misc/logos/320/4349.jpg" group-title="TELUGU",ZEE TELUGU HD
+#EXTINF:-1 tvg-id="4600" tvg-logo="https://pbs.twimg.com/profile_images/1931366509852643331/l1mJ5GmM_400x400.jpg" group-title="TELUGU",ZEE TELUGU HD
 http://push4k-rkdyiptv.wasmer.app/play.php?id=4600
 
 #EXTINF:-1 tvg-id="4598" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThN056FkIyOxd58YbfunQAQYF-2TcExIOTBnGeQcJvIdAculEnoDkTeQoq&s=10" group-title="TELUGU",ZEE CINEMALU
 http://push4k-rkdyiptv.wasmer.app/play.php?id=4598
 
-#EXTINF:-1 tvg-id="4593" tvg-logo="http://tv.push4k.tv/stalker_portal/misc/logos/320/4342.jpg" group-title="TELUGU",STAR MAA HD
+#EXTINF:-1 tvg-id="4593" tvg-logo="https://yt3.googleusercontent.com/usjAY_I4fe9H7ttFpMvXwupmJoqNpCOiLbC7bHWpFWT1uKTp6tuwSQdOa3ileWoWxw4X9tNb_Q=s900-c-k-c0x00ffffff-no-rj" group-title="TELUGU",STAR MAA HD
 http://push4k-rkdyiptv.wasmer.app/play.php?id=4593
 
-#EXTINF:-1 tvg-id="4589" tvg-logo="http://tv.push4k.tv/stalker_portal/misc/logos/320/4338.jpg" group-title="TELUGU",MAA MOVIES
+#EXTINF:-1 tvg-id="4589" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGN_I8HDxbADmK_-vfqXKnhuktOHfOYh9CPAO-EgfQpAHcwXPjtTCPdp8j&s=10" group-title="TELUGU",MAA MOVIES
 http://push4k-rkdyiptv.wasmer.app/play.php?id=4589
 
-#EXTINF:-1 tvg-id="4592" tvg-logo="http://tv.push4k.tv/stalker_portal/misc/logos/320/4341.jpg" group-title="TELUGU",MAA GOLD
+#EXTINF:-1 tvg-id="4592" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPVqBsvHTrHllUTK0GCOmrAspa2StVA9_sUTqnjzUbls5gY8AXW0IJr4&s=10" group-title="TELUGU",MAA GOLD
 http://push4k-rkdyiptv.wasmer.app/play.php?id=4592
 
 #EXTINF:-1 tvg-id="4595" tvg-logo="http://tv.push4k.tv/stalker_portal/misc/logos/320/4344.jpg" group-title="TELUGU",GEMINI TV HD
