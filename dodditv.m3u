@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
-EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" tvg-type="Movies" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/cover/1920x7708f92b6f0e3004d428dfdd0a7f9e6b762",Zee Cinemalu HD
+EXTINF:-1 tvg-id="zeecinemalu" tvg-name="Zee Cinemalu HD" tvg-type="zee" group-title="zee" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/cover/1920x7708f92b6f0e3004d428dfdd0a7f9e6b762",Zee Cinemalu HD
 http://192.0.0.2:8003/live.php?token=DVRIPTV=https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8
 
-EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-type="Entertainment" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/cover/1920x770a50d00e5557243f5a95a500873d3e408",Zee Telugu HD
+EXTINF:-1 tvg-id="zeetelugu" tvg-name="Zee Telugu HD" tvg-type="zee" group-title="zee" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_396,h_224,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/cover/1920x770a50d00e5557243f5a95a500873d3e408",Zee Telugu HD
 http://192.0.0.2:8003/live.php?token=DVRIPTV=https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TS-JioTV SonyLIV",SONY HD
@@ -3425,5 +3425,6 @@ http://192.0.0.2:8005/app/ts_live_3389.m3u8
 
 #EXTINF:-1 tvg-id="3392" tvg-name="INTRAVEL" tvg-type="Infotainment" group-title="TS-JioTV Infotainment" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Intravel.png",INTRAVEL
 http://192.0.0.2:8005/app/ts_live_3392.m3u8
+
 
 
