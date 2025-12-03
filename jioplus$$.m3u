@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdGLkJtR/IMG-20251108-190658-769.jpg 1016.jpg"  group-title="KashurFlix TELUGU | INDIA",ZEE CINEMALU 4K.
+https://kashurflix-smtv-pro-exp0726.wasmer.app/getlink/718
+
 #EXTINF:-1 tvg-id="1" group-title="Jiostar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_high.jpg",Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
